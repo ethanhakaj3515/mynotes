@@ -1,2 +1,52 @@
 title: Demo notes repo
 theme: jekyll-theme-midnight
+
+## Week 1 - History
+- One writing system can be used by many languages
+- Cuneiform looks weird
+- The Epic of Gilgamesh was epic
+
+## Week 2 - Bits and Bytes
+Bit: Short for binary digit, represents one of two states (0 or 1).
+Byte: Group of 8 bits.
+
+## Week 3 - Structure of Text
+Markdown:
+
+Simple syntax for formatting.
+Titles: # Title, ## Subtitle
+Italic: _italic_
+Bold: **bold**
+Lists: * item or - item
+Rendering: Conversion from raw text to formatted view.
+HTML:
+
+More verbose than Markdown.
+Tags: <ul>, <li>, <p>, <strong>, <h1>, <h2>, <h3>
+
+## Week 4 - Manipulating Text & Text Editors
+Types:
+Word Processors (e.g., Microsoft Word) vs. Text Editors (e.g., Notepad).
+Popular Editors:
+Vim: Command-line based, requires learning commands.
+Exit command: :q!
+Visual Studio Code (VS Code): Widely used, feature-rich.
+Extensions and themes available.
+IDEs: Integrated Development Environments like WebStorm, Pycharm.
+
+## Week 5 - Summary: Command Line Interfaces
+Navigation and File Management:
+
+ls: List files in a directory.
+cd: Change directory.
+pwd: Print working directory.
+cat: Display file contents.
+less: View file contents interactively.
+cp: Copy files.
+mv: Move files.
+mkdir: Create a directory.
+ping: Test network connectivity.
+Advanced Commands:
+
+grep: Search text using patterns.
+Redirection and piping: Direct output to files or other commands.
